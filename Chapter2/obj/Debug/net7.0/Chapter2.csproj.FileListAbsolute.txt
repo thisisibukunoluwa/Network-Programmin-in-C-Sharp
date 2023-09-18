@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/bin/Debug/net7.0/Chapter2
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/bin/Debug/net7.0/Chapter2.deps.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/bin/Debug/net7.0/Chapter2.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/bin/Debug/net7.0/Chapter2.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/bin/Debug/net7.0/Chapter2.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/refint/Chapter2.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/Chapter2.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter2/obj/Debug/net7.0/ref/Chapter2.dll

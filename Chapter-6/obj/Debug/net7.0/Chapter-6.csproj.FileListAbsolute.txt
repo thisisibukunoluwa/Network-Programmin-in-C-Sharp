@@ -1,0 +1,17 @@
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/bin/Debug/net7.0/Chapter-6
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/bin/Debug/net7.0/Chapter-6.deps.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/bin/Debug/net7.0/Chapter-6.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/bin/Debug/net7.0/Chapter-6.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/bin/Debug/net7.0/Chapter-6.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/refint/Chapter-6.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/ref/Chapter-6.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter-6/obj/Debug/net7.0/Chapter-6.csproj.CopyComplete

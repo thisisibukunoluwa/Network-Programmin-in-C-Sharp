@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E4F5CE2A-7280-491E-AD21-B933A31B2066}|Default">
+  <MonoDevelop.Ide.ItemProperties.Chapter4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="README.md" Line="203" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chapter4" expanded="True">
+            <Node name="Chapter4" expanded="True">
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
