@@ -1,0 +1,17 @@
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/bin/Debug/net7.0/Chapter7
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/bin/Debug/net7.0/Chapter7.deps.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/bin/Debug/net7.0/Chapter7.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/bin/Debug/net7.0/Chapter7.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/bin/Debug/net7.0/Chapter7.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/bin/Debug/net7.0/Polly.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.csproj.CopyComplete
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/refint/Chapter7.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/Chapter7.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/obj/Debug/net7.0/ref/Chapter7.dll

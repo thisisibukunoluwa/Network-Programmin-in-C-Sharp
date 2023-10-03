@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zjd1+lf/PtFmholC+ro6pBifUnJiGmFDZ7M87o6s1BtgzAPAQftcLsnuTOakQI+rmLZ3iP1NQfnX3ML4yAP1CQ==",
+  "success": true,
+  "projectFilePath": "/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter7/Chapter7.csproj",
+  "expectedPackageFiles": [
+    "/Users/ibukunoluwaakintobi/.nuget/packages/polly/7.2.4/polly.7.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

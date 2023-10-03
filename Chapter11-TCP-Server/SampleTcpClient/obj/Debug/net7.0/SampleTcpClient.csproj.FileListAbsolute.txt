@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/bin/Debug/net7.0/SampleTcpClient
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/bin/Debug/net7.0/SampleTcpClient.deps.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/bin/Debug/net7.0/SampleTcpClient.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/bin/Debug/net7.0/SampleTcpClient.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/bin/Debug/net7.0/SampleTcpClient.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/refint/SampleTcpClient.dll
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.pdb
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/SampleTcpClient.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/Csharp/Network-Programming-in-C-Sharp/Chapter11-TCP-Server/SampleTcpClient/obj/Debug/net7.0/ref/SampleTcpClient.dll
