@@ -7,28 +7,50 @@ namespace TcpServer
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             int port = 54321;
+            var i = 0;
             IPAddress address = IPAddress.Parse("127.0.0.1");
-            using(TcpClient client = new TcpClient())
+            var messages = new string[] {
+              "Hello server | Return this payload to sender!",
+              "To the server | Send this payload back to me!",
+              "Server Header | Another returned message.",
+              "Header Value | Payload to be returned",
+              "TERMINATE" };
+            while (i < messages.Length)
             {
-                client.Connect(address, port);
-                if (client.Connected)
+
+                using (TcpClient client = new TcpClient())
                 {
+                    client.Connect(address, port);
+                    if (client.Connected)
+                    {
+                        Console.WriteLine("We've disconnected frm the client");
+                    }
+
                     var message = "Hello server | return this payload to sender!";
-                    var bytes = Encoding.UTF8.GetBytes(message);
+                    var bytes = Encoding.UTF8.GetBytes(messages[i++]);
                     using (var requestStream = client.GetStream())
                     {
-                        requestStream.Write(bytes, 0, bytes.Length);
+                        await requestStream.WriteAsync(bytes, 0, bytes.Length);
+                        var responseBytes = new byte[256];
+                        await requestStream.ReadAsync(responseBytes, 0, responseBytes.Length);
+                        var responseMessage = Encoding.UTF8.GetString(responseBytes);
+                        Console.WriteLine();
+                        Console.WriteLine("Response Received From Server:");
+                        Console.WriteLine(responseMessage);
                     }
+
                     //The requestStream variable is an instance of the NetworkStream class created to write
                     //and read data over an open socket. With this, we'll be able to send our initial message,
                     //and then, eventually, read the response from the server then we can use our TcpListener
                     //instance to accept and parse an incoming request.
                 }
+                var sleepDuration = new Random().Next(2000, 10000);
+                Console.WriteLine($"Generating a new request in {sleepDuration / 1000} seconds");
+                Thread.Sleep(sleepDuration);
             }
-            Thread.Sleep(10000);
         }
     }
 }

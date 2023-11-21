@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D9BD054C-6A03-4145-BACF-A4C2EF3EAAA3}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DNSSimulation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HostsController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="2" Column="1" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="30" Column="56" />
+      <File FileName="Data/Hosts.cs" Line="15" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DNSSimulation" expanded="True">
+            <Node name="DNSSimulation" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HostsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

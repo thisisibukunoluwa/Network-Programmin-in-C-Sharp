@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6F9E357D-F928-46BE-8C68-0319C95E4F96}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="WeatherForecast.cs" Line="13" Column="1" />
+      <File FileName="Program.cs" Line="13" Column="37" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="56" Column="10" />
+      <File FileName="appsettings.json" Line="10" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataSimulation" expanded="True">
+            <Node name="DataSimulation" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="OutputRecord.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DataSimulation FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
